@@ -21,4 +21,4 @@
 ![макет](maket-example.png)
 
 ## Результат
-Реализованный проект прислать архивом или ссылкой на GitHub репозиторий на почту [mitrichev@simdev.ru](mailto:mitrichev@simdev.ru)
+Реализованный проект прислать архивом или ссылкой на GitHub репозиторий на почту [a.kolesnik@simdev.ru](mailto:a.kolesnik@simdev.ru)
